@@ -13,7 +13,7 @@
 
     <actions>
         <!-- Add your actions here -->
-        <action id="generate_func_method" class="com.github.adebmbng.gorepogen.GenerateFunction" text="com.github.adebmbng.gorepogen.GenerateFunction"
+        <action id="generate_func_method" class="com.github.adebmbng.gorepogen.GenerateFunction" text="Generate function"
                 description="Generate Go repo">
             <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl Q"/>
         </action>
