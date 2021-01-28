@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.adebmbng.gorepogen</id>
-    <name>go repo gen</name>
-    <vendor>debam</vendor>
+    <name>go-repo-gen</name>
+    <vendor>adebmbng</vendor>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
@@ -18,4 +18,5 @@
             <keyboard-shortcut keymap="$default" first-keystroke="shift ctrl Q"/>
         </action>
     </actions>
+
 </idea-plugin>
